@@ -1,3 +1,6 @@
+# AngularCoursePractice2
+This is my practice following the Mark Zamoyta's Angular Forms Course. This course can be found on PluralSight.
+
 # PsDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
